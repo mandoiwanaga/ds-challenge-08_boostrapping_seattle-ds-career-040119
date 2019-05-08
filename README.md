@@ -1,6 +1,6 @@
 # Bootstrapping Challenge
 
-Our statistic of choice is average goals allowed by a soccer team. We are interested in calculating the 95% confidence interval.
+Our statistic of choice is average goals allowed by a soccer team with defensive aggression rating >65. We are interested in calculating the 95% confidence interval.
 
 We assumed the following:
 - We only looked at teams with defensive aggression rating > 65.
